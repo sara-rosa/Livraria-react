@@ -1,17 +1,6 @@
 # Módulo 3 – Sendo Servido
 <br>
 
-#### A nossa Livraria se baseia em uma plataforma que simula o lado do administrador. Você poderá realizar os seguintes comandos:
-
-- GET = <i>Listar</i>
- - POST = <i>Adicionar</i>
- - PUT = <i>Editar</i>
- - DELETE = <i>Excluir</i>
- 
- <br>
-
-
-
 
 ## Tema da API
 <br>
@@ -27,6 +16,18 @@ Este projeto deverá seguir um tema dos utilizados pelos
 integrantes no projeto 1.
 
 <br>
+
+
+#### A nossa Livraria se baseia em uma plataforma que simula o lado do administrador. Você poderá realizar os seguintes comandos:
+
+- GET = <i>Listar</i>
+ - POST = <i>Adicionar</i>
+ - PUT = <i>Editar</i>
+ - DELETE = <i>Excluir</i>
+ 
+ <br>
+
+
 
 ## Dependências
 [Node.js](https://nodejs.org/en/)
