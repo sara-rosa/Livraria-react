@@ -41,7 +41,7 @@ const Formulario = (props) => {
                     />
                 <CampoTexto 
                     obrigatorio={true} 
-                    label="Genero" 
+                    label="Autor" 
                     placeholder="Digite o genero do livro"
                     valor={genero}
                     aoAlterado={valor => setGenero(valor)}
@@ -54,7 +54,7 @@ const Formulario = (props) => {
                     />
                 <ListaSuspensa 
                 obrigatorio={true} 
-                label="Livro" 
+                label="Genero" 
                 itens={props.livros}
                 valor={livro}
                 aoAlterado={valor => setLivro(valor)}

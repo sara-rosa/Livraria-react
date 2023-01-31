@@ -8,7 +8,7 @@
 }
 .colaborador img {
     width: 100px;
-    border-radius: 50%;
+    border-radius: 10%;
     position: relative;
     bottom: -50px;
 }
