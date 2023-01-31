@@ -42,7 +42,7 @@ const Formulario = (props) => {
                 <CampoTexto 
                     obrigatorio={true} 
                     label="Autor" 
-                    placeholder="Digite o genero do livro"
+                    placeholder="Digite o autor do livro"
                     valor={genero}
                     aoAlterado={valor => setGenero(valor)}
                     />
