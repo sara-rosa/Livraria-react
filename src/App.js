@@ -64,7 +64,7 @@ function App() {
         corSecundaria={livro.corSecundaria}
         colaboradores={colaboradores.filter(colaborador => colaborador.livro === livro.nome)}
         />)}
-       />
+       
         
         
     </div>
