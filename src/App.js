@@ -14,7 +14,7 @@ function App() {
       corSecundaria: '#d9f7e9'
     },
     { 
-      nome: 'Suspense',
+      nome: 'Drama',
       corPrimaria: '#82cffa',
       corSecundaria: '#e8f8ff'
     },
