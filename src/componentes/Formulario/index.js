@@ -9,7 +9,7 @@ const Formulario = (props) => {
     
 
     const [nome, setNome] = useState('')
-    const [genero, setGenero] = useState('')
+    const [autor, setAutor] = useState('')
     const [imagem, setImagem] = useState('')
     const [livro, setLivro] = useState('')
 
@@ -17,12 +17,12 @@ const Formulario = (props) => {
         evento.preventDefault()
         props.aoColaboradorCadastrado({
             nome,
-            genero,
+            autor,
             imagem,
             livro
         })
         setNome('')
-        setGenero('')
+        setAutor('')
         setImagem('')
         setLivro('')
         
@@ -43,8 +43,8 @@ const Formulario = (props) => {
                     obrigatorio={true} 
                     label="Autor" 
                     placeholder="Digite o autor do livro"
-                    valor={genero}
-                    aoAlterado={valor => setGenero(valor)}
+                    valor={autor}
+                    aoAlterado={valor => setAutor(valor)}
                     />
                 <CampoTexto 
                     label="Imagem" 
@@ -54,7 +54,7 @@ const Formulario = (props) => {
                     />
                 <ListaSuspensa 
                 obrigatorio={true} 
-                label="Genero" 
+                label="Gênero" 
                 itens={props.livros}
                 valor={livro}
                 aoAlterado={valor => setLivro(valor)}
