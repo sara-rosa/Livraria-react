@@ -68,4 +68,8 @@ npm start
 <br>
 
 ## Fotos do Projeto
-![App Screenshot](./.github/Screen-1.png)
+![livraria1](https://user-images.githubusercontent.com/112405656/216058477-7b904a81-adf0-4b80-b5cb-10ff2fd04cfb.png)
+<br>
+![livraria5](https://user-images.githubusercontent.com/112405656/216057212-449dc963-f34c-474b-bd19-c16cc398aa56.png)
+<br>
+![livraria4](https://user-images.githubusercontent.com/112405656/216057223-7dbfc6e5-4065-4d16-911c-c9c84974430e.png)
