@@ -54,7 +54,7 @@ function App() {
     },
     {
       nome: 'Sete Ossos',
-      auto: 'Rosa Amanda Strausz',
+      autor: 'Rosa Amanda Strausz',
       imagem:'https://globaleditora.com.br/capas/400/3525.jpg',
       livro: livros[5].nome
     },
