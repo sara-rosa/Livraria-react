@@ -48,25 +48,25 @@ function App() {
   const inicial = [
     {
       nome: 'Pinoquio',
-      genero: 'Machado de Assis',
+      autor: 'Machado de Assis',
       imagem:'https://3.bp.blogspot.com/-64t5BU1aJVk/T_2YEDuz5qI/AAAAAAAAHKk/aBX0FSd9D9g/s1600/pin.jpg',
       livro: livros[3].nome
     },
     {
       nome: 'Sete Ossos',
-      genero: 'Rosa Amanda Strausz',
+      auto: 'Rosa Amanda Strausz',
       imagem:'https://globaleditora.com.br/capas/400/3525.jpg',
       livro: livros[5].nome
     },
     {
       nome: 'O Livro dos Espíritos',
-      genero: 'Alan Kardec',
+      autor: 'Alan Kardec',
       imagem:'https://images-na.ssl-images-amazon.com/images/I/91s604HrQWL.jpg',
       livro: livros[6].nome
     },
     {
       nome: 'A Última Música',
-      genero: 'Nicolas Sparks',
+      autor: 'Nicolas Sparks',
       imagem:'http://3.bp.blogspot.com/-e7CKs9bCz7w/UPDHDf27cxI/AAAAAAAAAZQ/AkR5gadtor8/s1600/ultima_musica.jpg',
       livro: livros[1].nome
     }
