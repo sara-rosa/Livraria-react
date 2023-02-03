@@ -36,7 +36,7 @@ integrantes no projeto 1.
 
 [React-Bootstrap](https://react-bootstrap.github.io/) O modelo de componente React nos dá mais controle sobre a forma e a função de cada componente.
 
-[Axios](https://axios-http.com/ptbr/) Axios é um cliente HTTP baseado em promessas para o node.js e para o navegador
+
 
 [React-router-dom](https://reactrouter.com/en/main) O React Router permite roteamento do lado do cliente
 
